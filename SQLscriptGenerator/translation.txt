@@ -1,0 +1,113 @@
+Field	Label
+Abckz	ABC indic.
+Artpr	PriorityType
+Aedat	Changed on
+AbckzTxt	ABC IndicText
+Abnum	Call Number
+Aenam	Changed by
+Aezeit	Changed at
+Akknz	Category
+Arbpl	Work center
+Auart	Order Type
+AuartTxt	Short Text
+Aufnr	Order
+Aufnt	Subnetwork of
+Aufpl	Plan no.f.oper.
+Aufpt	Plan no.f.oper.
+Autyp	Order category
+Beber	System
+BeberTxt	PersResp.
+Bukrs	Company Code
+ClassificationPlant	Char. Value
+ControlClass	Char. Value
+CritContainment	Char. Value
+CritContainmentCategory	Char. Value
+CritCost	Char. Value
+CritCriticality	Char. Value
+CritFailHse	Char. Value
+CritMainFunction	Char. Value
+CritProduction	Char. Value
+CritRedundancy	Char. Value
+CritSafety	Char. Value
+CritSubFunction	Char. Value
+Eqfnr	Sort field
+Equnr	Equipment
+Erdat	Created on
+Erfzeit	Time created
+Ernam	Entered by
+Gaueh	Unit
+Gauzt	PlanDowntime/h
+Gewrk	Work Center
+Gltrp	Basic fin. date
+Gsber	Business Area
+Gstri	Actual start
+Gstrp	Bas. Start Date
+Idat2	Tech.completion
+Ilart	MaintActivType
+IlartTxt	MAT descriptn
+Ingpr	Planner group
+IngprTxt	PM PlGrp name
+Iphas	Phase
+Iwerk	Planning plant
+IwerkTxt	Name 1
+Kokrs	CO Area
+Kostv	Resp. cost cntr
+Ktext	Description
+Laufn	Last order
+Loekz	Deletion flag
+Longtext	LONGTEXT
+Ltext	Long txt exists
+McConceptNoConcern	Char. Value
+McConceptNoPlant	Char. Value
+McCriticalSpares	Char. Value
+McRepairStrategy	Char. Value
+McSparePartRequirement	Char. Value
+Msgrp	Area
+Objnr	Object number
+Obknr	Object list
+Plnal	Group Counter
+Plnnr	Group
+Plnty	Task List Type
+Ppsid	PP work ctr
+Prctr	Profit Center
+Priok	Priority
+PriokTxt	Priority
+Proid	WBS Element
+Pspel	WBS element
+Pverw	Usage
+Qmnum	Notification
+Refnr	Order
+Revnr	Revision
+RevnrTxt	RevDescription
+Sowrk	Location plant
+Stort	Location
+StortAufk	Location
+StortTxt	Text, 40 Characters Long
+Strno	Functional loc.
+Swerk	MaintPlant
+Tplnr	Functional loc.
+User4	Estimated costs
+Vaplz	Main WorkCtr
+VaplzTxt	Description
+Wapos	MaintItem
+Warpl	MaintenancePlan
+Werks	Plant
+Zzfailimpind	FailureImp
+Zzwsc1	Sufficient WO-inform
+Zzwsc10	Probability number2
+Zzwsc11	Probability number3
+Zzwsc12	Probability number4
+Zzwsc13	Probability number5
+Zzwsc14	WSC status
+Zzwsc15	WSC status descripti
+Zzwsc16	WSC Revision
+Zzwsc17	Highest score
+Zzwsc2	Workorder requires s
+Zzwsc3	Postponement requir
+Zzwsc4	Consequence number1
+Zzwsc5	Consequence number2
+Zzwsc6	Consequence number3
+Zzwsc7	Consequence number4
+Zzwsc8	Consequence number5
+Zzwsc9	Probability number1
+Zzwscnr	WSC number

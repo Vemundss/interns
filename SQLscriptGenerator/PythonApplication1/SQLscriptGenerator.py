@@ -41,7 +41,7 @@ class Translator:
 
 		for columnName in self.SQLdata:
 			if(columnName in self.mydict):
-				translatedData.append(self.mydict[columnName][:-1])
+				translatedData.append(self.mydict[columnName])
 			else:
 				translatedData.append(columnName)
 
@@ -55,7 +55,10 @@ class Translator:
 
 		iter = 0
 		for data in self.translatedData:
-			outdata += "[" + self.SQLdata[iter] + "]" + " as " + "[" + data + "]," + "\n"
+			if(data[-1] == "\n"):
+				outdata += "[" + self.SQLdata[iter] + "]" + " as " + "[" + data[:-1] + "]," + "\n"
+			else:
+				outdata += "[" + self.SQLdata[iter] + "]" + " as " + "[" + data + "]," + "\n"
 			iter += 1
 
 		outdata += "FROM  AS COMP\nGO"
