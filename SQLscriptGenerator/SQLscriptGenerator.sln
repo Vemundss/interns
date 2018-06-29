@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SQLscriptGenerator", "PythonApplication1\SQLscriptGenerator.pyproj", "{96C5019D-44A3-4A57-B32E-9BCA2209F4F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A92A5B58-D593-4EE3-B686-E2E5D9982F25}"
+	ProjectSection(SolutionItems) = preProject
+		outfile.txt = outfile.txt
+		SQLdata.txt = SQLdata.txt
+		translation.txt = translation.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C5019D-44A3-4A57-B32E-9BCA2209F4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C5019D-44A3-4A57-B32E-9BCA2209F4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8275E9-7DC1-453E-9936-B1712387CEA2}
+	EndGlobalSection
+EndGlobal
